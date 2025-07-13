@@ -2,7 +2,7 @@
 
 LiteMMV-GCL is a lightweight gesture recognition framework designed for privacy-sensitive environments. Unlike traditional systems that rely on visual sensors, LiteMMV-GCL leverages millimeter-wave (MMWave) radar data and transfer learning to achieve high accuracy with minimal training samples.
 
-![Gesture Definitions](imgs/gestures.png)
+![Gesture Definitions](imgs/Gestures.png)
 
 ## Overview
 
